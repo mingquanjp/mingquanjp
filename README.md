@@ -5,19 +5,6 @@
 
 ---
 
-## 🛠 What I'm Doing
-
-✔ **Currently working on**: [Your Project Name](https://github.com/yourusername/project-link) - _Mô tả ngắn_  
-✔ **Looking to collaborate on**: Open-source projects về [React/Vue/Python]  
-✔ **Currently learning**:  
-   - Frontend: ReactJS, VueJS  
-   - Backend: Node.js, Django  
-   - AI/ML: Python, TensorFlow (tự học qua Coursera)  
-✉ **How to reach me**: [quan.yourname@example.com](mailto:quan.yourname@example.com)  
-🌐 **Portfolio**: [Đang xây dựng]() | **Blog**: [Medium/Dev.to](https://medium.com/@yourusername)  
-
----
-
 ## 🚀 Skills & Technologies
 
 **Frontend**:  
@@ -37,7 +24,7 @@
 
 ## 📊 GitHub Stats
 
-![Quan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
+![Quan's GitHub Stats](https://github-readme-stats.vercel.app/api?mingquanjp&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
