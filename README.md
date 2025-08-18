@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Quan
 
-**🎓 3rd-year Vietnam-Japan Information Technology - HEDSPI Student | Hanoi University of Science and Technology **  
+**🎓 3rd-year Vietnam-Japan Information Technology - HEDSPI Student | Hanoi University of Science and Technology**  
 **💻 Passionate about Web Development & AI**  
 
 ---
 
 ## 🛠 Current Focus
-✔ **Working on**: [VietCom](https://github.com/mingquanjp/project) - _Short description_  
+✔ **Working on**: [VietCom](https://github.com/mingquanjp/VietCom) - _Short description_  
 ✔ **Learning**: React Advanced Concepts & Django REST Framework  
 ✔ **Goals**: Contribute to open-source projects this year  
 
